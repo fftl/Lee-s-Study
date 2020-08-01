@@ -1,0 +1,26 @@
+create-react-app에 대한 공부를 하려고 따라하기를 하고 있는데,
+
+내가 따라하고 있는 https://eunvanz.github.io/react/2018/06/05/React-create-react-app%EC%9C%BC%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/
+
+에서 create-react-app 을 했을때 App.js 에는 
+
+class App extends Component 로 컴포넌트가 생성되어 있었는데
+
+내가 만든 create-react-app 의 App.js 에는
+
+fucntion App() 으로 컴포넌트가 생성되어 있었다.
+
+둘의 차이가 궁금해져서 검색을 해보았더니 https://overreacted.io/ko/how-are-function-components-different-from-classes/
+
+에서 테스트를 해보았다고 한다. 아직 나의 지식으로는 완벽하게 이해가 가진 않았지만.
+
+class 컴포넌트는 this. 를 이용해 가져온 변수는 동작에 맞춰 react가 값을 변경해 버리는 경우가 있다.
+
+fucntion 은 그런 경우가 없다고 한다.
+
+물론 class나 function 두가지 모두 보완할 수 있는 방안이 있다고 한다.
+
+##################################################################################################################################################################
+
+
+
