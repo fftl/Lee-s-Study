@@ -1,6 +1,0 @@
-- position, 을 잡을 때에 대한 학습이 더 필요합니다.
-    -> 부모요소 아래에 있는 요소를 position: absolute; 하기 위해서는 부모요소의 position이 정해져 있어야 합니다.
-
-- flex-basis 가 정확히 무슨기능인지 찾아보기, flex-grow flex의 단축속성 
-
-- 

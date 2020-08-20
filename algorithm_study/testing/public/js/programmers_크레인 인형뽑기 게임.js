@@ -1,5 +1,3 @@
-크레인 인형뽑기 게임
-https://programmers.co.kr/learn/courses/30/lessons/64061?language=javascript
 
 function solution(board, moves) {
     
@@ -44,5 +42,3 @@ function solution(board, moves) {
     console.log(answer)                                                     //답이 알맞게 나올지 확인하기 위해서 사용했습니다.
     return answer;                                                          //answer 리턴;
 }
-
-solution([[0, 0, 0, 0, 0], [0, 0, 1, 0, 3], [0, 2, 5, 0, 1], [4, 2, 4, 4, 2], [3, 5, 1, 3, 1]], [1, 5, 3, 5, 1, 2, 1, 4]); // 디버깅 해보기 위해 테스트 케이스를 가져왔습니다.

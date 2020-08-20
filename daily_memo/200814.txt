@@ -1,6 +1,0 @@
-- &nbsp; 를 이용한 글자 줄바꿈 반응형을 사용하기 위함
-
-- box-sizing: border-box; => padding으로 인해 요소의 크기가 해당 요소를 감싼 요소를 넘칠때 잡아주는 역할?
-
-- clearfix
-
