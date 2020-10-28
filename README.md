@@ -1,5 +1,7 @@
 ## 소개
 
+<img src="https://user-images.githubusercontent.com/69035612/97399420-82e36f80-1930-11eb-95b1-fee64cc11505.jpg" width="225" height="225"></img>
+
 - 이름 : 이동민
 - 군필여부 : 현역필
 - Email : fftl.0710@gmail.com
